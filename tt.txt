@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 mater
+=======
+Ctest
+>>>>>>> test
 i
